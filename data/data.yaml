@@ -1,0 +1,10 @@
+# custom dataset
+train: ./dataset/jute/images/train
+val: ./dataset/jute/images/val
+test: ./dataset/jute/images/test
+
+# number of classes
+nc: 9
+
+# class1 names
+names: ['Black hairy', 'Field Cricket', 'Indigo caterpillar', 'Jute semilooper', 'Jute stem girdler', 'Jute Stem Weevil', 'Leaf beetle', 'Pod borer', 'Yellow Mite']
